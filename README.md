@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yihsuan1004
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning React and Redux, devoting in Front-End
+- 👀 I’m interested in web development and web design。
+- 🌱 I’m currently learning React and Redux, devoting in Front-End framework.
 - 📫 This is my portfolio link https://yihsuanhung.com/
 
 
