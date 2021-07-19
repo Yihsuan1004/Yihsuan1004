@@ -12,3 +12,7 @@
 * Angular - 55%
 * React - 45%
 * Redux - 40%
+
+### 📭 Contact 
+* Mail - houng1004@gmail.com
+* Web - https://yihsuanhung.com/
