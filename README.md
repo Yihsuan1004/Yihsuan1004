@@ -4,11 +4,7 @@
 - 📝 I will plan to learn unit tesing through online courses and do some sideprojects so that I can implement unit testing in my future projects.
 
 ### 🔨 Skills 
-* HTML - 80%
-* CSS  - 75%
-* SASS/SCSS - 70%
-* Javacript ES6 - 65%
-* jQuery - 65%
-* Angular - 55%
-* React - 45%
-* Redux - 40%
+* HTML - 80%            * jQuery - 65%
+* CSS  - 75%            * Angular - 55%
+* SASS/SCSS - 70%       * React - 45%
+* Javacript ES6 - 65%   * Redux - 40%
