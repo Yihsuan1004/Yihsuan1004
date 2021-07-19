@@ -13,6 +13,6 @@
 * React - 45%
 * Redux - 40%
 
-### 📭 Contact 
+### 📭 Contact me
 * Mail - houng1004@gmail.com
 * Web - https://yihsuanhung.com/
