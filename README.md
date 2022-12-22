@@ -6,10 +6,10 @@
 ### 🔨 Skills 
 * HTML - 80%            
 * CSS  - 75%            
-* SASS/SCSS - 70%      
-* Javacript ES6 - 65%  
+* SASS/SCSS - 75%      
+* Javacript ES6 - 70%  
 * jQuery - 65%
-* Angular - 55%
+* Angular - 70%
 * React - 45%
 * Redux - 40%
 
