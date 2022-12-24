@@ -1,5 +1,6 @@
 ## Hi, I am Yihsuan, Hung 👋
 - 👀 I’m interested in web development.
+- 💼 I use Angular to develop systems in my job.
 - 🌱 I’m currently learning React and Redux.
 - 📝 I will plan to learn unit tesing through online courses and do some sideprojects so that I can implement unit testing in my future projects.
 
