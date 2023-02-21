@@ -1,18 +1,16 @@
-## Hi, I am Yihsuan, Hung 👋
-- 👀 I’m interested in web development.
+## Hi, I am Yihsuan Hung 👋
 - 💼 I use Angular to develop systems in my job.
-- 🌱 I’m currently learning React and Redux.
-- 📝 I will plan to learn unit tesing through online courses and do some sideprojects so that I can implement unit testing in my future projects.
+- 👀 I am curious about web development.
 
 ### 🔨 Skills 
 * HTML - 80%            
 * CSS  - 75%            
 * SASS/SCSS - 75%      
-* Javacript ES6 - 70%  
+* Javacript ES6 - 75%  
 * jQuery - 65%
 * Angular - 70%
-* React - 45%
-* Redux - 40%
+* React - 55%
+* Redux - 50%
 
 ### 📭 Contact me
 * Mail - houng1004@gmail.com
