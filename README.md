@@ -9,8 +9,7 @@
 * Javacript ES6 - 75%  
 * jQuery - 65%
 * Angular - 70%
-* React - 55%
-* Redux - 50%
+
 
 ### 📭 Contact me
 * Mail - houng1004@gmail.com
